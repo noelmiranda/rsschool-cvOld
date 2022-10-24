@@ -25,7 +25,8 @@
 - 2019 - IT Specialist - TÜV Rheinland Europe.
 
 ### Education 
-- Master in GIS -University of Silesia.
+- Master in GIS - University of Silesia.
+- Master in Systems - Girona University.
 - Data Visualization D3.jsData Visualization D3.js - FreeCodeCamp.
 - Front End LibrariesFront End Libraries - FreeCodeCamp.
 - JavaScript Algorithms and Data StructuresJavaScript Algorithms and Data Structures - FreeCodeCamp.
