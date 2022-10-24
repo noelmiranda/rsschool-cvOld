@@ -15,6 +15,13 @@
 - Node
 - MongoDB
 - MySQL
+- Firestore.
+- RTBD.
+- Cloud Function.
+- Firebase Authentication.
+- Firebase Storage.
+- Firebase Hosting.
+
 
 ### Code examples 
 - https://github.com/noelmiranda?tab=repositories
@@ -28,7 +35,7 @@
 - Master in GIS - University of Silesia.
 - Master in Systems - Girona University.
 - Data Visualization D3.jsData Visualization D3.js - FreeCodeCamp.
-- Front End LibrariesFront End Libraries - FreeCodeCamp.
+- Front End Libraries - FreeCodeCamp.
 - JavaScript Algorithms and Data StructuresJavaScript Algorithms and Data Structures - FreeCodeCamp.
 - Responsive Web DesignResponsive Web Design - FreeCodeCamp.
 
