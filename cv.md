@@ -5,7 +5,7 @@
 - Linkedin: https://www.linkedin.com/in/noel-miranda/
 
 ### Summary 
-> Although my training is in the GIS area. I have merged my professional career with web development specifically  with MERN Stack technology. Using platforms such as Google Developer Scholarship, FreeCodeCamp, Pirple, among others. Currently, I'm working as a Cloud Application Analyst on the Web as well as Android and iOS using Google Firebase products.
+> Although my training is in the GIS area. I have merged my professional career with web development specifically  with MERN Stack technology. Using platforms such as Google Developer Scholarship, FreeCodeCamp, Pirple, among others. Currently, I am currently working as a Cloud Application Analyst who helps in engineering cloud computing services and applications. I incorporate Google firebase products for unparalleled cloud computing on the web, IoS, and Android devices.
 
 ### Skills 
 - HTML
